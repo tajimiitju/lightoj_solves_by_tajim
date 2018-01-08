@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415337946 source:c:\users\asus\desktop\1069-lift\main.c
+	<stdio.h>
+	<stdlib.h>
+

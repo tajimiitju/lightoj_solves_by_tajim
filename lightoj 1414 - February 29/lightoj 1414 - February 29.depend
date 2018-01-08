@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1449407819 source:d:\coadings\trying\lightoj 1414 - february 29\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<string>
+	<cctype>
+	<stack>
+	<queue>
+	<list>
+	<vector>
+	<map>
+	<sstream>
+	<cmath>
+	<bitset>
+	<utility>
+	<set>
+

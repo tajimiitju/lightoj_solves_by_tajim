@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431770076 source:e:\coadings\lightoj 1072 - calm down\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+

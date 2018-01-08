@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1449423820 source:d:\coadings\lightoj\solved problems\lightoj 1067 – combinations\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<string>
+	<cctype>
+	<stack>
+	<queue>
+	<list>
+	<vector>
+	<map>
+	<sstream>
+	<cmath>
+	<bitset>
+	<utility>
+	<set>
+

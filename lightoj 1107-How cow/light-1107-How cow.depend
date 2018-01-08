@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415350896 source:c:\users\asus\desktop\light-1107-how cow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

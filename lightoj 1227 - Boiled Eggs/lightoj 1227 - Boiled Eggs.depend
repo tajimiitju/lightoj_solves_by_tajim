@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448807219 source:d:\coadings\trying\lightoj 1227 - boiled eggs\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448359685 source:d:\coadings\trying\lightoj 1010 - knights in chessboard\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
